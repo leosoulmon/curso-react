@@ -4,6 +4,6 @@ export default class Pessoa{
     }
 
     toString() {
-        return `Pessoa ${this.nome}`
+        return `Pessoa: ${this.nome}`
     }
 }
